@@ -451,6 +451,8 @@ button.toggler-menu{
 
 
 
+
+
 #about{
     font-family: 'Poppins',sans-serif;
 }
@@ -466,8 +468,8 @@ button.toggler-menu{
 }
 
 .about-me .social-icons{
-    position: absolute;
-    bottom: -15px;
+    position: relative;
+    bottom: -125px;
     left: 0;
     right: 0;
 }
